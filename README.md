@@ -35,6 +35,7 @@
 
 ## Testing
 - [Testy w PHP - mock czyli test double](https://zawarstwaabstrakcji.pl/20181005-testy-php-mock-czyli-test-double/)
+- [test && commit || revert](https://medium.com/@kentbeck_7670/test-commit-revert-870bbd756864)
 
 
 ## Databases
@@ -43,6 +44,7 @@
 
 ## Juniors
 - [Clean Code in PHP](https://github.com/jupeter/clean-code-php)
+
 
 ## Interresting
 - [Difference beween `iseet()` and `array_key_exists()` in PHP](https://stackoverflow.com/questions/3210935/difference-between-isset-and-array-key-exists)
