@@ -1,4 +1,4 @@
-# dev-stuff collected by myself
+# Programming materials for everyone
 
 
 ### Good habbits / career
