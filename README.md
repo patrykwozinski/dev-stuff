@@ -4,6 +4,7 @@
 ### Good habbits / career
 - [How to be a more successfull programmer?](https://www.yegor256.com/2018/11/27/you-can-do-better.html)
 - [Code Reviews and Brame Culture](http://verraes.net/2016/04/code-reviews-and-blame-culture/)
+- [Profesjonalny developer. Kto to taki?](https://www.youtube.com/watch?v=SqekVVJDyB8) `video`
 
 
 ### Domain Driven Design
