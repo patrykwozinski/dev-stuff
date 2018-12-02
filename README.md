@@ -19,6 +19,7 @@
 - [7 virtues of a good object](https://www.yegor256.com/2014/11/20/seven-virtues-of-good-object.html)
 - [Model jest wszystkim czego potrzebujesz](https://www.youtube.com/watch?v=iaLeKHbspLg)
 - [OOP and Go...](https://medium.com/behancetech/oop-and-go-sorta-c6682359a41b)
+- [Throwing exceptions without proper context is a bad habbit](https://www.yegor256.com/2015/12/01/rethrow-exceptions.html)
 
 
 ### Domain discovering and process modeling
