@@ -17,7 +17,9 @@
 
 
 ## Interresting
-- 
+- Difference beween `iseet()` and `array_key_exists()` in PHP | https://stackoverflow.com/questions/3210935/difference-between-isset-and-array-key-exists
+- How to append data into PHPH array correclty | https://stackoverflow.com/questions/559844/whats-better-to-use-in-php-array-value-or-array-pusharray-value/559859#559859
+- Period against comma in PHP | https://stackoverflow.com/questions/1466408/difference-between-period-and-comma-when-concatenating-with-echo-versus-return
 
 
 ## My own
