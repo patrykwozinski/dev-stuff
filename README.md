@@ -17,23 +17,23 @@
 - [Anti Patterns](https://www.yegor256.com/2014/09/10/anti-patterns-in-oop.html)
 - [How immutability helps?](https://www.yegor256.com/2014/11/07/how-immutability-helps.html)
 - [7 virtues of a good object](https://www.yegor256.com/2014/11/20/seven-virtues-of-good-object.html)
-- [Model jest wszystkim czego potrzebujesz](https://www.youtube.com/watch?v=iaLeKHbspLg)+video+
+- [Model jest wszystkim czego potrzebujesz](https://www.youtube.com/watch?v=iaLeKHbspLg) `video`
 - [Inheritance is a procedural technique for code reuse](https://www.yegor256.com/2016/09/13/inheritance-is-procedural.html)
 - [OOP and Go...](https://medium.com/behancetech/oop-and-go-sorta-c6682359a41b)
 - [Throwing exceptions without proper context is a bad habbit](https://www.yegor256.com/2015/12/01/rethrow-exceptions.html)
 
 
 ### Domain discovering and process modeling
-- [Discovering unknown domain with Event Storming](https://www.youtube.com/watch?v=dhoXYRqghws)
+- [Discovering unknown domain with Event Storming](https://www.youtube.com/watch?v=dhoXYRqghws) `video`
 - [Event Storming Workshop Cheat Sheet](https://github.com/wwerner/event-storming-cheatsheet)
 - [Modeling Reactive Systems with Event Storming](https://blog.redelastic.com/corporate-arts-crafts-modelling-reactive-systems-with-event-storming-73c6236f5dd7)
 
 
 ### Architecture
 - [Clean architecture at OLX Europe](https://tech.olx.com/clean-architecture-at-olx-europe-f0501c37f09d)
-- [Lekkie podejście do dokumentowania architektury](https://www.youtube.com/watch?v=FoMEgnMKhK0)
+- [Lekkie podejście do dokumentowania architektury](https://www.youtube.com/watch?v=FoMEgnMKhK0) `video`
 - [Listen to Yourself: A Design Pattern for Event-Driven Microservices](https://medium.com/@odedia/listen-to-yourself-design-pattern-for-event-driven-microservices-16f97e3ed066)
-- [Prosta architektura dla nieprostego systemu (CQRS)](https://www.youtube.com/watch?v=Emr4jkhW9L4)
+- [Prosta architektura dla nieprostego systemu (CQRS)](https://www.youtube.com/watch?v=Emr4jkhW9L4) `video`
 
 
 ### Microservices
@@ -44,11 +44,11 @@
 ### Testing
 - [Testy w PHP - mock czyli test double](https://zawarstwaabstrakcji.pl/20181005-testy-php-mock-czyli-test-double/)
 - [test && commit || revert](https://medium.com/@kentbeck_7670/test-commit-revert-870bbd756864)
-- [Jak zwiększyć wartość testów jednostkowych](https://www.youtube.com/watch?v=smK6gCvafJE)
+- [Jak zwiększyć wartość testów jednostkowych](https://www.youtube.com/watch?v=smK6gCvafJE) `video`
 
 
 ### Databases
-- [Baza danych jako szczegół implementacyjny](https://www.youtube.com/watch?v=Vgj-qAgOlIQ)
+- [Baza danych jako szczegół implementacyjny](https://www.youtube.com/watch?v=Vgj-qAgOlIQ) `video`
 
 
 ### Junior devs
