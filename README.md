@@ -15,6 +15,7 @@
 ### Object Oriented Programming
 - [Alternative to utility classes](https://www.yegor256.com/2014/05/05/oop-alternative-to-utility-classes.html)
 - [Why null is bad?](https://www.yegor256.com/2014/05/13/why-null-is-bad.html)
+- [Type safety and money](http://verraes.net/2016/02/type-safety-and-money/)
 - [Anti Patterns](https://www.yegor256.com/2014/09/10/anti-patterns-in-oop.html)
 - [How immutability helps?](https://www.yegor256.com/2014/11/07/how-immutability-helps.html)
 - [7 virtues of a good object](https://www.yegor256.com/2014/11/20/seven-virtues-of-good-object.html)
