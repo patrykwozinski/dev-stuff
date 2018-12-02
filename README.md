@@ -22,6 +22,9 @@
 - Period against comma in PHP | https://stackoverflow.com/questions/1466408/difference-between-period-and-comma-when-concatenating-with-echo-versus-return
 
 
+## Everyday life of the developer
+- Semantic versioning | https://semver.org/
+
 ## My own
 - Gates for CQRS | https://medium.com/docplanner-tech/goalkeeper-the-guardian-of-a-correct-execution-of-commands-aefeeafc3565
 - Dobre praktyki [PL] | https://medium.com/docplanner-tech/dobre-praktyki-uczyni%C4%85-ci%C4%99-lepszym-developerem-8741be404960
