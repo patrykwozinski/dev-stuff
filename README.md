@@ -23,6 +23,7 @@
 
 ### Domain discovering and process modeling
 - [Discovering unknown domain with Event Storming](https://www.youtube.com/watch?v=dhoXYRqghws)
+- [Event Storming Workshop Cheat Sheet](https://github.com/wwerner/event-storming-cheatsheet)
 
 
 ### Architecture
