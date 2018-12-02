@@ -42,7 +42,7 @@
 - [Baza danych jako szczegół implementacyjny](https://www.youtube.com/watch?v=Vgj-qAgOlIQ)
 
 
-## Juniors
+## Junior devs
 - [Clean Code in PHP](https://github.com/jupeter/clean-code-php)
 
 
