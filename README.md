@@ -8,6 +8,7 @@
 ## Domain Driven Design
 - [Sposób na projektowanie złożonych modeli biznesowych - Bottega IT](https://bottega.com.pl/pdf/materialy/sdj-ddd.pdf)
 - [Warstwowa architektura w DDD](http://tswiackiewicz.github.io/inside-the-source-code/architecture/ddd-layered-architecture/)
+- [How to define Bounded Contexts](https://codeburst.io/ddd-strategic-patterns-how-to-define-bounded-contexts-2dc70927976e)
 
 
 ## Object Oriented Programming
