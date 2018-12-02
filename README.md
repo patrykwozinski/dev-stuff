@@ -28,6 +28,10 @@
 - [Lekkie podejście do dokumentowania architektury](https://www.youtube.com/watch?v=FoMEgnMKhK0)
 
 
+## Microservices
+- [Export data out of the monolith](https://divad4686.github.io/2018/11/26/microservices-techniques.html)
+
+
 ## Interresting
 - [Difference beween `iseet()` and `array_key_exists()` in PHP](https://stackoverflow.com/questions/3210935/difference-between-isset-and-array-key-exists)
 - [How to append data into PHP array correclty](https://stackoverflow.com/questions/559844/whats-better-to-use-in-php-array-value-or-array-pusharray-value/559859#559859)
