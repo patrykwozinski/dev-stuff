@@ -16,6 +16,10 @@
 - Warstwowa architektura | http://tswiackiewicz.github.io/inside-the-source-code/architecture/ddd-layered-architecture/
 
 
+## Architecture
+- Clean architecture at OLX Europe | https://tech.olx.com/clean-architecture-at-olx-europe-f0501c37f09d
+
+
 ## Interresting
 - Difference beween `iseet()` and `array_key_exists()` in PHP | https://stackoverflow.com/questions/3210935/difference-between-isset-and-array-key-exists
 - How to append data into PHP array correclty | https://stackoverflow.com/questions/559844/whats-better-to-use-in-php-array-value-or-array-pusharray-value/559859#559859
