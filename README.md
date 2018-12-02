@@ -39,7 +39,7 @@
 
 ## My own
 - [Gates for CQRS](https://medium.com/docplanner-tech/goalkeeper-the-guardian-of-a-correct-execution-of-commands-aefeeafc3565)
-- [Dobre praktyki](https://medium.com/docplanner-tech/dobre-praktyki-uczyni%C4%85-ci%C4%99-lepszym-developerem-8741be404960)
+- [Dobre praktyki uczynią Cię lepszym developerem](https://medium.com/docplanner-tech/dobre-praktyki-uczyni%C4%85-ci%C4%99-lepszym-developerem-8741be404960)
 - [Piekło statycznych klas](https://medium.com/docplanner-tech/z%C5%82o-ca%C5%82ego-%C5%9Bwiata-umieszczone-w-klasach-statycznych-46704731398)
 
 
