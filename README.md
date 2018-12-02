@@ -24,6 +24,7 @@
 
 ## Architecture
 - [Clean architecture at OLX Europe](https://tech.olx.com/clean-architecture-at-olx-europe-f0501c37f09d)
+- [Lekkie podejście do dokumentowania architektury](https://www.youtube.com/watch?v=FoMEgnMKhK0)
 
 
 ## Interresting
