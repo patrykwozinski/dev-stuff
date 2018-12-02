@@ -26,7 +26,7 @@
 - [Throwing exceptions without proper context is a bad habbit](https://www.yegor256.com/2015/12/01/rethrow-exceptions.html)
 
 
-### Domain discovering and process modeling
+### Domain discovering and modeling
 - [Discovering unknown domain with Event Storming](https://www.youtube.com/watch?v=dhoXYRqghws) `video`
 - [Event Storming Workshop Cheat Sheet](https://github.com/wwerner/event-storming-cheatsheet)
 - [Modeling Reactive Systems with Event Storming](https://blog.redelastic.com/corporate-arts-crafts-modelling-reactive-systems-with-event-storming-73c6236f5dd7)
