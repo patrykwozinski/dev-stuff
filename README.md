@@ -39,6 +39,7 @@
 ### Testing
 - [Testy w PHP - mock czyli test double](https://zawarstwaabstrakcji.pl/20181005-testy-php-mock-czyli-test-double/)
 - [test && commit || revert](https://medium.com/@kentbeck_7670/test-commit-revert-870bbd756864)
+- [Jak zwiększyć wartość testów jednostkowych](https://www.youtube.com/watch?v=smK6gCvafJE)
 
 
 ### Databases
