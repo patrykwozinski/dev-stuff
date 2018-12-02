@@ -24,6 +24,7 @@
 
 ## Everyday life of the developer
 - Semantic versioning | https://semver.org/
+- Successfull git branching | https://nvie.com/posts/a-successful-git-branching-model/
 
 ## My own
 - Gates for CQRS | https://medium.com/docplanner-tech/goalkeeper-the-guardian-of-a-correct-execution-of-commands-aefeeafc3565
