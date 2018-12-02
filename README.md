@@ -1,4 +1,4 @@
-# dev-stuff
+# dev-stuff collected by Patryk Woziński
 
 
 ## Good practices and behaviors / career
