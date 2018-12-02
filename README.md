@@ -5,16 +5,20 @@
 - [Why null is bad?](https://www.yegor256.com/2014/05/13/why-null-is-bad.html)
 - [Anti Patterns](https://www.yegor256.com/2014/09/10/anti-patterns-in-oop.html)
 - [How immutability helps?](https://www.yegor256.com/2014/11/07/how-immutability-helps.html)
-- [7 virtues of a good object](https://www.yegor256.com/2014/11/20/seven-virtues-of-good-object.html)
+- [7 virtues of a good object](https://www.yegor256.com/2014/11/20/seven-virtues-of-good-object.html) :
 
 
-## Good practices and behaviors
+## Good practices and behaviors / career
 - [How to be a more successfull programmer?](https://www.yegor256.com/2018/11/27/you-can-do-better.html)
 
 
 ## Domain Driven Design
 - [Sposób na projektowanie złożonych modeli biznesowych - Bottega IT](https://bottega.com.pl/pdf/materialy/sdj-ddd.pdf)
 - [Warstwowa architektura w DDD](http://tswiackiewicz.github.io/inside-the-source-code/architecture/ddd-layered-architecture/)
+
+
+## Discovering business and process modeling
+- [Discovering unknown domain with Event Storming](https://www.youtube.com/watch?v=dhoXYRqghws)
 
 
 ## Architecture
