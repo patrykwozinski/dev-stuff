@@ -8,12 +8,12 @@
 
 
 ## Good practices and behaviors
-- How to be a more successfull programmer? | https://www.yegor256.com/2018/11/27/you-can-do-better.html
+- [How to be a more successfull programmer?](https://www.yegor256.com/2018/11/27/you-can-do-better.html)
 
 
 ## Domain Driven Design
-- Sposób na projektowanie złożonych modeli biznesowych | https://bottega.com.pl/pdf/materialy/sdj-ddd.pdf
-- Warstwowa architektura | http://tswiackiewicz.github.io/inside-the-source-code/architecture/ddd-layered-architecture/
+- [Sposób na projektowanie złożonych modeli biznesowych - Bottega IT](https://bottega.com.pl/pdf/materialy/sdj-ddd.pdf)
+- [Warstwowa architektura](http://tswiackiewicz.github.io/inside-the-source-code/architecture/ddd-layered-architecture/)
 
 
 ## Architecture
