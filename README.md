@@ -33,6 +33,7 @@
 - [Clean architecture at OLX Europe](https://tech.olx.com/clean-architecture-at-olx-europe-f0501c37f09d)
 - [Lekkie podejście do dokumentowania architektury](https://www.youtube.com/watch?v=FoMEgnMKhK0)
 - [Listen to Yourself: A Design Pattern for Event-Driven Microservices](https://medium.com/@odedia/listen-to-yourself-design-pattern-for-event-driven-microservices-16f97e3ed066)
+- [Prosta architektura dla nieprostego systemu (CQRS)](https://www.youtube.com/watch?v=Emr4jkhW9L4)
 
 
 ### Microservices
