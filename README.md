@@ -1,4 +1,4 @@
-# Programming materials for everyone
+# Programming stuff for everyone
 
 
 ### Good habbits / career
