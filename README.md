@@ -11,6 +11,15 @@
 - How to be a more successfull programmer? | https://www.yegor256.com/2018/11/27/you-can-do-better.html
 
 
+## Domain Driven Design
+- Sposób na projektowanie złożonych modeli biznesowych | https://bottega.com.pl/pdf/materialy/sdj-ddd.pdf
+- Warstwowa architektura | http://tswiackiewicz.github.io/inside-the-source-code/architecture/ddd-layered-architecture/
+
+
+## Interresting
+- 
+
+
 ## My own
 - Gates for CQRS | https://medium.com/docplanner-tech/goalkeeper-the-guardian-of-a-correct-execution-of-commands-aefeeafc3565
 - Dobre praktyki [PL] | https://medium.com/docplanner-tech/dobre-praktyki-uczyni%C4%85-ci%C4%99-lepszym-developerem-8741be404960
