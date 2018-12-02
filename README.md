@@ -32,4 +32,4 @@
 
 
 ## Funny
-- Git Podlasie | https://github.com/maciejkorsan/podlaskigit
+- Podlaski git | https://github.com/maciejkorsan/podlaskigit
