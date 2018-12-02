@@ -26,9 +26,10 @@
 - [Period against comma in PHP](https://stackoverflow.com/questions/1466408/difference-between-period-and-comma-when-concatenating-with-echo-versus-return)
 
 
-## Everyday life of the developer
+## Version control
 - [Semantic versioning](https://semver.org/)
 - [Successfull git branching](https://nvie.com/posts/a-successful-git-branching-model/)
+- [Git-Flow Cheatsheet](https://danielkummer.github.io/git-flow-cheatsheet/)
 
 ## My own
 - [Gates for CQRS](https://medium.com/docplanner-tech/goalkeeper-the-guardian-of-a-correct-execution-of-commands-aefeeafc3565)
