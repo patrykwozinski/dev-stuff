@@ -18,7 +18,7 @@
 - [Warstwowa architektura w DDD](http://tswiackiewicz.github.io/inside-the-source-code/architecture/ddd-layered-architecture/)
 
 
-## Discovering business and process modeling
+## Domain discovering and process modeling
 - [Discovering unknown domain with Event Storming](https://www.youtube.com/watch?v=dhoXYRqghws)
 
 
@@ -33,10 +33,15 @@
 - [Period against comma in PHP](https://stackoverflow.com/questions/1466408/difference-between-period-and-comma-when-concatenating-with-echo-versus-return)
 
 
+## Databases
+- [Baza danych jako szczegół implementacyjny](https://www.youtube.com/watch?v=Vgj-qAgOlIQ)
+
+
 ## Version control
 - [Semantic versioning](https://semver.org/)
 - [Successfull git branching](https://nvie.com/posts/a-successful-git-branching-model/)
 - [Git-Flow Cheatsheet](https://danielkummer.github.io/git-flow-cheatsheet/)
+
 
 ## My own
 - [Gates for CQRS](https://medium.com/docplanner-tech/goalkeeper-the-guardian-of-a-correct-execution-of-commands-aefeeafc3565)
