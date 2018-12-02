@@ -57,6 +57,10 @@
 - [Baza danych jako szczegół implementacyjny](https://www.youtube.com/watch?v=Vgj-qAgOlIQ) `video`
 
 
+## Security
+- [Web developer security checklist](https://medium.com/simple-security/web-developer-security-checklist-f2e4f43c9c56)
+
+
 ### Junior devs
 - [Clean Code in PHP](https://github.com/jupeter/clean-code-php)
 
