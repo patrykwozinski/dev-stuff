@@ -4,7 +4,7 @@
 ### Good habbits / career
 - :gb: [How to be a more successfull programmer?](https://www.yegor256.com/2018/11/27/you-can-do-better.html)
 - :gb: [Code Reviews and Brame Culture](http://verraes.net/2016/04/code-reviews-and-blame-culture/)
-- :flag-pl: [Profesjonalny developer. Kto to taki?](https://www.youtube.com/watch?v=SqekVVJDyB8) `video`
+- [Profesjonalny developer. Kto to taki?](https://www.youtube.com/watch?v=SqekVVJDyB8) `video` :flag-pl:
 - :gb: [I just reviewed 100+ LinkedIN profiles](https://zef.me/i-just-reviewed-100-linkedin-profiles-86c4a9bacdd3)
 
 
