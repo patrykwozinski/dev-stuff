@@ -82,4 +82,5 @@
 
 ### Funny
 - [Podlaski git](https://github.com/maciejkorsan/podlaskigit)
+- [Ślůnski git](https://github.com/andrzej3393/slunskigit)
 - [Worst security hole you've seen?](https://stackoverflow.com/questions/1469899/worst-security-hole-youve-seen)
