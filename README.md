@@ -10,7 +10,6 @@
 
 ### Domain Driven Design
 - [Sposób na projektowanie złożonych modeli biznesowych - Bottega IT](https://bottega.com.pl/pdf/materialy/sdj-ddd.pdf)
-- [Warstwowa architektura w DDD](http://tswiackiewicz.github.io/inside-the-source-code/architecture/ddd-layered-architecture/)
 - [How to define Bounded Contexts](https://codeburst.io/ddd-strategic-patterns-how-to-define-bounded-contexts-2dc70927976e)
 
 
@@ -39,6 +38,7 @@
 - [Lekkie podejście do dokumentowania architektury](https://www.youtube.com/watch?v=FoMEgnMKhK0) `video`
 - [Listen to Yourself: A Design Pattern for Event-Driven Microservices](https://medium.com/@odedia/listen-to-yourself-design-pattern-for-event-driven-microservices-16f97e3ed066)
 - [Prosta architektura dla nieprostego systemu (CQRS)](https://www.youtube.com/watch?v=Emr4jkhW9L4) `video`
+- [Warstwowa architektura w DDD](http://tswiackiewicz.github.io/inside-the-source-code/architecture/ddd-layered-architecture/)
 
 
 ### Microservices
