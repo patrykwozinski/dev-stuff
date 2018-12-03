@@ -5,6 +5,7 @@
 - [How to be a more successfull programmer?](https://www.yegor256.com/2018/11/27/you-can-do-better.html)
 - [Code Reviews and Brame Culture](http://verraes.net/2016/04/code-reviews-and-blame-culture/)
 - [Profesjonalny developer. Kto to taki?](https://www.youtube.com/watch?v=SqekVVJDyB8) `video`
+- [Dobre praktyki uczynią Cię lepszym developerem](https://medium.com/docplanner-tech/dobre-praktyki-uczyni%C4%85-ci%C4%99-lepszym-developerem-8741be404960)
 - [I just reviewed 100+ LinkedIN profiles](https://zef.me/i-just-reviewed-100-linkedin-profiles-86c4a9bacdd3)
 
 
@@ -17,6 +18,7 @@
 - [Alternative to utility classes](https://www.yegor256.com/2014/05/05/oop-alternative-to-utility-classes.html)
 - [Nie koduj, pisz prozę - lingwistyczne techniki wychodzące poza Clean Code](https://www.youtube.com/watch?v=CKONKZLmMwk) `video`
 - [Why null is bad?](https://www.yegor256.com/2014/05/13/why-null-is-bad.html)
+- [Piekło statycznych klas](https://medium.com/docplanner-tech/z%C5%82o-ca%C5%82ego-%C5%9Bwiata-umieszczone-w-klasach-statycznych-46704731398)
 - [Type safety and money](http://verraes.net/2016/02/type-safety-and-money/)
 - [Anti Patterns](https://www.yegor256.com/2014/09/10/anti-patterns-in-oop.html)
 - [How immutability helps?](https://www.yegor256.com/2014/11/07/how-immutability-helps.html)
@@ -39,6 +41,7 @@
 - [Listen to Yourself: A Design Pattern for Event-Driven Microservices](https://medium.com/@odedia/listen-to-yourself-design-pattern-for-event-driven-microservices-16f97e3ed066)
 - [Prosta architektura dla nieprostego systemu (CQRS)](https://www.youtube.com/watch?v=Emr4jkhW9L4) `video`
 - [Warstwowa architektura w DDD](http://tswiackiewicz.github.io/inside-the-source-code/architecture/ddd-layered-architecture/)
+- [Gates for CQRS](https://medium.com/docplanner-tech/goalkeeper-the-guardian-of-a-correct-execution-of-commands-aefeeafc3565)
 
 
 ### Microservices
@@ -75,12 +78,6 @@
 - [Semantic versioning](https://semver.org/)
 - [Successfull git branching](https://nvie.com/posts/a-successful-git-branching-model/)
 - [Git-Flow Cheatsheet](https://danielkummer.github.io/git-flow-cheatsheet/)
-
-
-### My own
-- [Gates for CQRS](https://medium.com/docplanner-tech/goalkeeper-the-guardian-of-a-correct-execution-of-commands-aefeeafc3565)
-- [Dobre praktyki uczynią Cię lepszym developerem](https://medium.com/docplanner-tech/dobre-praktyki-uczyni%C4%85-ci%C4%99-lepszym-developerem-8741be404960)
-- [Piekło statycznych klas](https://medium.com/docplanner-tech/z%C5%82o-ca%C5%82ego-%C5%9Bwiata-umieszczone-w-klasach-statycznych-46704731398)
 
 
 ### Funny
