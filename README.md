@@ -42,6 +42,7 @@
 - [Prosta architektura dla nieprostego systemu (CQRS)](https://www.youtube.com/watch?v=Emr4jkhW9L4) `video`
 - [Warstwowa architektura w DDD](http://tswiackiewicz.github.io/inside-the-source-code/architecture/ddd-layered-architecture/)
 - [Gates for CQRS](https://medium.com/docplanner-tech/goalkeeper-the-guardian-of-a-correct-execution-of-commands-aefeeafc3565)
+- [Agile & Architecture](https://www.youtube.com/watch?v=YYAcugwEZTI) `video`
 
 
 ### Microservices
