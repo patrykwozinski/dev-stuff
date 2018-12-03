@@ -2,15 +2,15 @@
 
 
 ### Good habbits / career
-- :gb: [How to be a more successfull programmer?](https://www.yegor256.com/2018/11/27/you-can-do-better.html)
-- :gb: [Code Reviews and Brame Culture](http://verraes.net/2016/04/code-reviews-and-blame-culture/)
-- [Profesjonalny developer. Kto to taki?](https://www.youtube.com/watch?v=SqekVVJDyB8) `video` :flag-pl:
-- :gb: [I just reviewed 100+ LinkedIN profiles](https://zef.me/i-just-reviewed-100-linkedin-profiles-86c4a9bacdd3)
+- [How to be a more successfull programmer?](https://www.yegor256.com/2018/11/27/you-can-do-better.html)
+- [Code Reviews and Brame Culture](http://verraes.net/2016/04/code-reviews-and-blame-culture/)
+- [Profesjonalny developer. Kto to taki?](https://www.youtube.com/watch?v=SqekVVJDyB8) `video`
+- [I just reviewed 100+ LinkedIN profiles](https://zef.me/i-just-reviewed-100-linkedin-profiles-86c4a9bacdd3)
 
 
 ### Domain Driven Design
-- :flag-pl: [Sposób na projektowanie złożonych modeli biznesowych - Bottega IT](https://bottega.com.pl/pdf/materialy/sdj-ddd.pdf)
-- :gb: [How to define Bounded Contexts](https://codeburst.io/ddd-strategic-patterns-how-to-define-bounded-contexts-2dc70927976e)
+- [Sposób na projektowanie złożonych modeli biznesowych - Bottega IT](https://bottega.com.pl/pdf/materialy/sdj-ddd.pdf)
+- [How to define Bounded Contexts](https://codeburst.io/ddd-strategic-patterns-how-to-define-bounded-contexts-2dc70927976e)
 
 
 ### Object Oriented Programming
