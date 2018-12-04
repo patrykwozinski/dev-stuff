@@ -40,7 +40,7 @@
 - [Lekkie podejście do dokumentowania architektury](https://www.youtube.com/watch?v=FoMEgnMKhK0) <sup>[PL]</sup> `video`
 - [Listen to Yourself: A Design Pattern for Event-Driven Microservices](https://medium.com/@odedia/listen-to-yourself-design-pattern-for-event-driven-microservices-16f97e3ed066) <sup>[ENG]</sup>
 - [Prosta architektura dla nieprostego systemu (CQRS)](https://www.youtube.com/watch?v=Emr4jkhW9L4) <sup>[PL]</sup> `video`
-- [Warstwowa architektura w DDD](http://tswiackiewicz.github.io/inside-the-source-code/architecture/ddd-layered-architecture/) <sup>[ENG]</sup>
+- [Warstwowa architektura w DDD](http://tswiackiewicz.github.io/inside-the-source-code/architecture/ddd-layered-architecture/) <sup>[PL]</sup>
 - [Gates for CQRS](https://medium.com/docplanner-tech/goalkeeper-the-guardian-of-a-correct-execution-of-commands-aefeeafc3565) <sup>[ENG]</sup>
 - [Agile & Architecture](https://www.youtube.com/watch?v=YYAcugwEZTI) <sup>[PL]</sup> `video`
 
