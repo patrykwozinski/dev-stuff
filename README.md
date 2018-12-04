@@ -66,6 +66,7 @@
 
 
 ### Junior devs
+- [Clean Code](https://www.youtube.com/watch?v=0HQT0r4rokk) <sup>[PL]</sup> `video`
 - [Clean Code in PHP](https://github.com/jupeter/clean-code-php) <sup>[ENG]</sup>
 
 
