@@ -27,6 +27,7 @@
 - [Inheritance is a procedural technique for code reuse](https://www.yegor256.com/2016/09/13/inheritance-is-procedural.html) <sup>[ENG]</sup>
 - [OOP and Go...](https://medium.com/behancetech/oop-and-go-sorta-c6682359a41b) <sup>[ENG]</sup>
 - [Throwing exceptions without proper context is a bad habbit](https://www.yegor256.com/2015/12/01/rethrow-exceptions.html) <sup>[ENG]</sup>
+- [Nazwy metod, atrybutów i zmiennych na poważnie](https://medium.com/@patrykwozinski/nazwy-metod-atrybut%C3%B3w-i-zmiennych-na-powa%C5%BCnie-9626ea91ca47) <sup>[PL]</sup>
 
 
 ### Domain discovering and modeling
