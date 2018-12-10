@@ -44,6 +44,7 @@
 - [Warstwowa architektura w DDD](http://tswiackiewicz.github.io/inside-the-source-code/architecture/ddd-layered-architecture/) <sup>[PL]</sup>
 - [Gates for CQRS](https://medium.com/docplanner-tech/goalkeeper-the-guardian-of-a-correct-execution-of-commands-aefeeafc3565) <sup>[ENG]</sup>
 - [Agile & Architecture](https://www.youtube.com/watch?v=YYAcugwEZTI) <sup>[PL]</sup> `video`
+- [The art of destroying software](https://vimeo.com/108441214) <sup>[ENG]</sup> `video`
 
 
 ### Microservices
