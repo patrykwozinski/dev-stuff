@@ -46,6 +46,7 @@
 - [Gates for CQRS](https://medium.com/docplanner-tech/goalkeeper-the-guardian-of-a-correct-execution-of-commands-aefeeafc3565) <sup>[ENG]</sup>
 - [Agile & Architecture](https://www.youtube.com/watch?v=YYAcugwEZTI) <sup>[PL]</sup> `video`
 - [All Things CQRS](https://github.com/ddd-by-examples/all-things-cqrs) <sup>[ENG]</sup>
+- [Example of Domain Driven Design enterprise application](https://github.com/ddd-by-examples/factory) <sup>[ENG]</sup>
 
 
 ### Microservices
