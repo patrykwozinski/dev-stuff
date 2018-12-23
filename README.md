@@ -68,6 +68,7 @@
 
 ### Security
 - [Web developer security checklist](https://medium.com/simple-security/web-developer-security-checklist-f2e4f43c9c56) <sup>[ENG]</sup>
+- [Worst security hole you've seen?](https://stackoverflow.com/questions/1469899/worst-security-hole-youve-seen) <sup>[ENG]</sup>
 
 
 ### Junior devs
@@ -90,4 +91,3 @@
 ### Funny
 - [Podlaski git](https://github.com/maciejkorsan/podlaskigit) <sup>[PL]</sup>
 - [Ślůnski git](https://github.com/andrzej3393/slunskigit) <sup>[PL]</sup>
-- [Worst security hole you've seen?](https://stackoverflow.com/questions/1469899/worst-security-hole-youve-seen) <sup>[ENG]</sup>
