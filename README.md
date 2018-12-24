@@ -31,6 +31,10 @@
 - [Nazwy metod, atrybutów i zmiennych na poważnie](https://medium.com/@patrykwozinski/nazwy-metod-atrybut%C3%B3w-i-zmiennych-na-powa%C5%BCnie-9626ea91ca47) <sup>[PL]</sup>
 
 
+### Refactoring
+- [Refactoring Guru: refactoring and design patterns](https://refactoring.guru) <sup>[ENG]</sup>
+
+
 ### Domain discovering and modeling
 - [Discovering unknown domain with Event Storming](https://www.youtube.com/watch?v=dhoXYRqghws) <sup>[PL]</sup> `video`
 - [Event Storming Workshop Cheat Sheet](https://github.com/wwerner/event-storming-cheatsheet) <sup>[ENG]</sup>
