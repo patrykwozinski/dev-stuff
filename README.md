@@ -19,7 +19,7 @@
 - [Alternative to utility classes](https://www.yegor256.com/2014/05/05/oop-alternative-to-utility-classes.html) <sup>[ENG]</sup>
 - [Nie koduj, pisz prozę - lingwistyczne techniki wychodzące poza Clean Code](https://www.youtube.com/watch?v=CKONKZLmMwk) <sup>[PL]</sup> `video`
 - [Why null is bad?](https://www.yegor256.com/2014/05/13/why-null-is-bad.html) <sup>[ENG]</sup>
-- [Piekło statycznych klas](https://medium.com/docplanner-tech/z%C5%82o-ca%C5%82ego-%C5%9Bwiata-umieszczone-w-klasach-statycznych-46704731398) <sup>[PL]</sup>
+- [Static classes — the home of the devil?](https://medium.com/docplanner-tech/z%C5%82o-ca%C5%82ego-%C5%9Bwiata-umieszczone-w-klasach-statycznych-46704731398) <sup>[PL]</sup>
 - [Type safety and money](http://verraes.net/2016/02/type-safety-and-money/) <sup>[ENG]</sup>
 - [Anti Patterns](https://www.yegor256.com/2014/09/10/anti-patterns-in-oop.html) <sup>[ENG]</sup>
 - [How immutability helps?](https://www.yegor256.com/2014/11/07/how-immutability-helps.html) <sup>[ENG]</sup>
