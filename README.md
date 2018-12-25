@@ -5,7 +5,7 @@
 - [How to be a more successfull programmer?](https://www.yegor256.com/2018/11/27/you-can-do-better.html) <sup>[ENG]</sup>
 - [Code Reviews and Brame Culture](http://verraes.net/2016/04/code-reviews-and-blame-culture/) <sup>[ENG]</sup>
 - [Profesjonalny developer. Kto to taki?](https://www.youtube.com/watch?v=SqekVVJDyB8) <sup>[PL]</sup> `video`
-- [Dobre praktyki uczynią Cię lepszym developerem](https://medium.com/docplanner-tech/dobre-praktyki-uczyni%C4%85-ci%C4%99-lepszym-developerem-8741be404960) <sup>[PL]</sup>
+- [Good practices will make you a better developer](https://medium.com/docplanner-tech/dobre-praktyki-uczyni%C4%85-ci%C4%99-lepszym-developerem-8741be404960) <sup>[ENG]</sup>
 - [I just reviewed 100+ LinkedIN profiles](https://zef.me/i-just-reviewed-100-linkedin-profiles-86c4a9bacdd3) <sup>[ENG]</sup>
 - [The art of destroying software](https://vimeo.com/108441214) <sup>[ENG]</sup> `video`
 
