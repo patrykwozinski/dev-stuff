@@ -51,6 +51,7 @@
 - [Agile & Architecture](https://www.youtube.com/watch?v=YYAcugwEZTI) <sup>[PL]</sup> `video`
 - [All Things CQRS](https://github.com/ddd-by-examples/all-things-cqrs) <sup>[ENG]</sup>
 - [Example of Domain Driven Design enterprise application](https://github.com/ddd-by-examples/factory) <sup>[ENG]</sup>
+- [The Clean Architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html) <sup>[ENG]</sup>
 
 
 ### Microservices
