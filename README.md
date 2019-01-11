@@ -85,6 +85,7 @@
 - [Difference between `isset()` and `array_key_exists()` in PHP](https://stackoverflow.com/questions/3210935/difference-between-isset-and-array-key-exists) <sup>[ENG]</sup>
 - [How to append data into PHP array correclty](https://stackoverflow.com/questions/559844/whats-better-to-use-in-php-array-value-or-array-pusharray-value/559859#559859) <sup>[ENG]</sup>
 - [Period against comma in PHP](https://stackoverflow.com/questions/1466408/difference-between-period-and-comma-when-concatenating-with-echo-versus-return) <sup>[ENG]</sup>
+- [PHP rules, good practices, security](https://github.com/dseguy/clearPHP/tree/master/rules) <sup>[ENG]</sup>
 
 
 ### Version control
