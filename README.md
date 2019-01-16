@@ -52,6 +52,7 @@
 - [All Things CQRS](https://github.com/ddd-by-examples/all-things-cqrs) <sup>[ENG]</sup>
 - [Example of Domain Driven Design enterprise application](https://github.com/ddd-by-examples/factory) <sup>[ENG]</sup>
 - [The Clean Architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html) <sup>[ENG]</sup>
+- [DDD, Hexagonal, Onion, Clean, CQRS, … How I put it all together](https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together/) <sup>[ENG]</sup>
 
 
 ### Microservices
