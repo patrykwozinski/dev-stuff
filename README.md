@@ -8,6 +8,7 @@
 - [Good practices will make you a better developer](https://medium.com/docplanner-tech/dobre-praktyki-uczyni%C4%85-ci%C4%99-lepszym-developerem-8741be404960) <sup>[ENG]</sup>
 - [I just reviewed 100+ LinkedIN profiles](https://zef.me/i-just-reviewed-100-linkedin-profiles-86c4a9bacdd3) <sup>[ENG]</sup>
 - [The art of destroying software](https://vimeo.com/108441214) <sup>[ENG]</sup> `video`
+- [How To Speed Up The Code Review](https://sergeyzhuk.me/2018/12/29/code_review/) <sup>[ENG]</sup>
 
 
 ### Domain Driven Design
