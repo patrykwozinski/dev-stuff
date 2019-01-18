@@ -99,3 +99,4 @@
 ### Funny
 - [Podlaski git](https://github.com/maciejkorsan/podlaskigit) <sup>[PL]</sup>
 - [Ślůnski git](https://github.com/andrzej3393/slunskigit) <sup>[PL]</sup>
+- [Junior IT Rekruter](https://www.junioritrekruter.pl/)<sup>[PL]</sup>
