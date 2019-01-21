@@ -17,6 +17,7 @@
 
 
 ### Object Oriented Programming
+- [Wyjątkowe wyjątki i unhappy path](https://medium.com/@patrykwozinski/wyj%C4%85tkowe-wyj%C4%85tki-i-unhappy-path-d2657a1cfdd2) <sup>[PL]</sup>
 - [Alternative to utility classes](https://www.yegor256.com/2014/05/05/oop-alternative-to-utility-classes.html) <sup>[ENG]</sup>
 - [Nie koduj, pisz prozę - lingwistyczne techniki wychodzące poza Clean Code](https://www.youtube.com/watch?v=CKONKZLmMwk) <sup>[PL]</sup> `video`
 - [Why null is bad?](https://www.yegor256.com/2014/05/13/why-null-is-bad.html) <sup>[ENG]</sup>
