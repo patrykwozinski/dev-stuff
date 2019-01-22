@@ -43,6 +43,7 @@
 - [Discovering unknown domain with Event Storming](https://www.youtube.com/watch?v=dhoXYRqghws) <sup>[PL]</sup> `video`
 - [Event Storming Workshop Cheat Sheet](https://github.com/wwerner/event-storming-cheatsheet) <sup>[ENG]</sup>
 - [Modeling Reactive Systems with Event Storming](https://blog.redelastic.com/corporate-arts-crafts-modelling-reactive-systems-with-event-storming-73c6236f5dd7) <sup>[ENG]</sup>
+- [A facilitators recipe for Event Storming](https://medium.com/@springdo/a-facilitators-recipe-for-event-storming-941dcb38db0d) <sup>[ENG]</sup>
 
 
 ### Architecture
