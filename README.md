@@ -9,6 +9,7 @@
 - [I just reviewed 100+ LinkedIN profiles](https://zef.me/i-just-reviewed-100-linkedin-profiles-86c4a9bacdd3) <sup>[ENG]</sup>
 - [The art of destroying software](https://vimeo.com/108441214) <sup>[ENG]</sup> `video`
 - [How To Speed Up The Code Review](https://sergeyzhuk.me/2018/12/29/code_review/) <sup>[ENG]</sup>
+- [How to write a good software design document](https://medium.freecodecamp.org/how-to-write-a-good-software-design-document-66fcf019569c) <sup>[ENG]</sup>
 
 
 ### Domain Driven Design
