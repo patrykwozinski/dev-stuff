@@ -33,6 +33,7 @@
 - [OOP and Go...](https://medium.com/behancetech/oop-and-go-sorta-c6682359a41b) <sup>[ENG]</sup>
 - [Throwing exceptions without proper context is a bad habbit](https://www.yegor256.com/2015/12/01/rethrow-exceptions.html) <sup>[ENG]</sup>
 - [Nazwy metod, atrybutów i zmiennych na poważnie](https://medium.com/@patrykwozinski/nazwy-metod-atrybut%C3%B3w-i-zmiennych-na-powa%C5%BCnie-9626ea91ca47) <sup>[PL]</sup>
+- [Write long function](http://redbeardlab.com/2019/02/07/write-long-function/) <sup>[ENG]</sup>
 
 
 ### Refactoring
