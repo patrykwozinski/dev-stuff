@@ -73,6 +73,7 @@
 - [Jak zwiększyć wartość testów jednostkowych](https://www.youtube.com/watch?v=smK6gCvafJE) <sup>[PL]</sup> `video`
 - [How much testing is too much?](http://verraes.net/2014/12/how-much-testing-is-too-much/) <sup>[ENG]</sup>
 - [Unit Testing Anti-Patterns](https://www.yegor256.com/2018/12/11/unit-testing-anti-patterns.html) <sup>[ENG]</sup>
+- [Working faster with tests](https://medium.com/docplanner-tech/working-faster-with-tests-c0acd60faf2e) <sup>[ENG]</sup>
 
 
 ### Databases
