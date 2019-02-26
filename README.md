@@ -1,5 +1,9 @@
 # Programming stuff for everyone
 
+<p align="center">
+  <img src="https://kinsta.com/wp-content/uploads/2017/03/wordpress-developer.png" alt="Logo"/>
+</p>
+
 
 ### Good habbits / career
 - [How to be a more successfull programmer?](https://www.yegor256.com/2018/11/27/you-can-do-better.html) <sup>[ENG]</sup>
