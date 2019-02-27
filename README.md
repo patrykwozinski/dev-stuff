@@ -92,6 +92,11 @@
 - [Worst security hole you've seen?](https://stackoverflow.com/questions/1469899/worst-security-hole-youve-seen) <sup>[ENG]</sup>
 
 
+### Books
+- "Applying UML and patterns" - Craig Larman
+- "Domain-Driven Design: Tackling Complexity in the Heart of Software" - Eric Evans
+
+
 ### Junior devs
 - [Clean Code](https://www.youtube.com/watch?v=0HQT0r4rokk) <sup>[PL]</sup> `video`
 - [Clean Code in PHP](https://github.com/jupeter/clean-code-php) <sup>[ENG]</sup>
