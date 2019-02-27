@@ -95,6 +95,7 @@
 ### Books
 - "Applying UML and patterns" - Craig Larman
 - "Domain-Driven Design: Tackling Complexity in the Heart of Software" - Eric Evans
+- "Enterprise Patterns and MDA: Building Better Software with Archetype Patterns and UML" - Jim Arlow
 
 
 ### Junior devs
