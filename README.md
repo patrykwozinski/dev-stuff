@@ -45,6 +45,7 @@
 ### Refactoring
 - [Refactoring Guru: refactoring and design patterns](https://refactoring.guru) <sup>[ENG]</sup>
 - [8 tips for successful refactoring](https://medium.com/@andreigridnev/8-tips-for-successful-refactoring-b2a1c9b5d820) <sup>[ENG]</sup>
+- []
 
 
 ### Domain discovering and modeling
@@ -67,6 +68,7 @@
 - [The Clean Architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html) <sup>[ENG]</sup>
 - [DDD, Hexagonal, Onion, Clean, CQRS, … How I put it all together](https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together/) <sup>[ENG]</sup>
 - [Domain Driven Design in Go](https://www.citerus.se/go-ddd) <sup>[ENG]</sup>
+- [Serverless Architectures I/III: Design and technical trade-offs](https://medium.com/@pablo.iorio/serverless-architectures-i-iii-design-and-technical-trade-offs-8ca5d637f98e) <sup>[ENG]</sup>
 
 
 ### Microservices
