@@ -40,6 +40,7 @@
 - [Write long function](http://redbeardlab.com/2019/02/07/write-long-function/) <sup>[ENG]</sup>
 - [When to declare classes final](https://ocramius.github.io/blog/when-to-declare-classes-final/) <sup>[ENG]</sup>
 - [How to Kill Parents](https://www.tomasvotruba.cz/blog/2019/01/24/how-to-kill-parents/) <sup>[ENG]</sup>
+- [Entity vs ValueObject - ultimate list of differences]() <sup>[ENG]</sup>
 
 
 ### Refactoring
