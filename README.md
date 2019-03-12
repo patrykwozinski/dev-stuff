@@ -41,6 +41,7 @@
 - [When to declare classes final](https://ocramius.github.io/blog/when-to-declare-classes-final/) <sup>[ENG]</sup>
 - [How to Kill Parents](https://www.tomasvotruba.cz/blog/2019/01/24/how-to-kill-parents/) <sup>[ENG]</sup>
 - [Entity vs ValueObject - ultimate list of differences](https://enterprisecraftsmanship.com/2016/01/11/entity-vs-value-object-the-ultimate-list-of-differences/) <sup>[ENG]</sup>
+- [Kompleks wielkości metod](https://medium.com/@patrykwozinski/kompleks-wielko%C5%9Bci-metod-ecfb949c61d8) <sup>[PL]</sup>
 
 
 ### Refactoring
