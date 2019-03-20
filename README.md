@@ -54,6 +54,7 @@
 - [Event Storming Workshop Cheat Sheet](https://github.com/wwerner/event-storming-cheatsheet) <sup>[ENG]</sup>
 - [Modeling Reactive Systems with Event Storming](https://blog.redelastic.com/corporate-arts-crafts-modelling-reactive-systems-with-event-storming-73c6236f5dd7) <sup>[ENG]</sup>
 - [A facilitators recipe for Event Storming](https://medium.com/@springdo/a-facilitators-recipe-for-event-storming-941dcb38db0d) <sup>[ENG]</sup>
+- [DDD - The Bounded Context Explained](http://blog.sapiensworks.com/post/2012/04/17/DDD-The-Bounded-Context-Explained.aspx) <sup>[ENG]</sup>
 
 
 ### Architecture
