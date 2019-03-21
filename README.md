@@ -72,6 +72,7 @@
 - [DDD, Hexagonal, Onion, Clean, CQRS, … How I put it all together](https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together/) <sup>[ENG]</sup>
 - [Domain Driven Design in Go](https://www.citerus.se/go-ddd) <sup>[ENG]</sup>
 - [Serverless Architectures I/III: Design and technical trade-offs](https://medium.com/@pablo.iorio/serverless-architectures-i-iii-design-and-technical-trade-offs-8ca5d637f98e) <sup>[ENG]</sup>
+- [How to break a Monolith into Microservices](https://martinfowler.com/articles/break-monolith-into-microservices.html) <sup>[ENG]</sup>
 
 
 ### Microservices
