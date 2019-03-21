@@ -21,6 +21,7 @@
 - [How to define Bounded Contexts](https://codeburst.io/ddd-strategic-patterns-how-to-define-bounded-contexts-2dc70927976e)
 - [Using Domain Driven Design as a crutch for large refactors](https://medium.com/8fit-tech-blog/using-domain-driven-design-as-a-crutch-for-large-refactors-c9ea53253757) <sup>[ENG]</sup>
 - [Strategies for Integrating Bounded Contexts](https://culttt.com/2014/11/26/strategies-integrating-bounded-contexts/) <sup>[ENG]</sup>
+- [DDD - The Bounded Context Explained](http://blog.sapiensworks.com/post/2012/04/17/DDD-The-Bounded-Context-Explained.aspx) <sup>[ENG]</sup>
 
 
 ### Object Oriented Programming
@@ -55,7 +56,6 @@
 - [Event Storming Workshop Cheat Sheet](https://github.com/wwerner/event-storming-cheatsheet) <sup>[ENG]</sup>
 - [Modeling Reactive Systems with Event Storming](https://blog.redelastic.com/corporate-arts-crafts-modelling-reactive-systems-with-event-storming-73c6236f5dd7) <sup>[ENG]</sup>
 - [A facilitators recipe for Event Storming](https://medium.com/@springdo/a-facilitators-recipe-for-event-storming-941dcb38db0d) <sup>[ENG]</sup>
-- [DDD - The Bounded Context Explained](http://blog.sapiensworks.com/post/2012/04/17/DDD-The-Bounded-Context-Explained.aspx) <sup>[ENG]</sup>
 
 
 ### Architecture
