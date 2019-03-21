@@ -20,6 +20,7 @@
 - [Sposób na projektowanie złożonych modeli biznesowych - Bottega IT](https://bottega.com.pl/pdf/materialy/sdj-ddd.pdf)
 - [How to define Bounded Contexts](https://codeburst.io/ddd-strategic-patterns-how-to-define-bounded-contexts-2dc70927976e)
 - [Using Domain Driven Design as a crutch for large refactors](https://medium.com/8fit-tech-blog/using-domain-driven-design-as-a-crutch-for-large-refactors-c9ea53253757) <sup>[ENG]</sup>
+- [Strategies for Integrating Bounded Contexts](https://culttt.com/2014/11/26/strategies-integrating-bounded-contexts/) <sup>[ENG]</sup>
 
 
 ### Object Oriented Programming
