@@ -76,6 +76,7 @@
 - [How to break a Monolith into Microservices](https://martinfowler.com/articles/break-monolith-into-microservices.html) <sup>[ENG]</sup>
 - [C4 model for visualising software architecture](https://c4model.com/) <sup>[ENG]</sup>
 - [Sagi, strumienie, reaktywność](https://www.youtube.com/watch?v=27S0G9bE3Bg) <sup>[PL]</sup> `video`
+- [Cele architektury oprogramowania](https://medium.com/@patrykwozinski/cele-architektury-oprogramowania-a063dda884d1) <sup>[PL]</sup>
 
 
 ### Microservices
