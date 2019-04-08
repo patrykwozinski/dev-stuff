@@ -74,6 +74,7 @@
 - [Serverless Architectures I/III: Design and technical trade-offs](https://medium.com/@pablo.iorio/serverless-architectures-i-iii-design-and-technical-trade-offs-8ca5d637f98e) <sup>[ENG]</sup>
 - [How to break a Monolith into Microservices](https://martinfowler.com/articles/break-monolith-into-microservices.html) <sup>[ENG]</sup>
 - [C4 model for visualising software architecture](https://c4model.com/) <sup>[ENG]</sup>
+- [Sagi, strumienie, reaktywność](https://www.youtube.com/watch?v=27S0G9bE3Bg) <sup>[PL]</sup> `video`
 
 
 ### Microservices
