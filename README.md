@@ -23,6 +23,7 @@
 - [Strategies for Integrating Bounded Contexts](https://culttt.com/2014/11/26/strategies-integrating-bounded-contexts/) <sup>[ENG]</sup>
 - [DDD - The Bounded Context Explained](http://blog.sapiensworks.com/post/2012/04/17/DDD-The-Bounded-Context-Explained.aspx) <sup>[ENG]</sup>
 - [DDD in plain english](https://stackoverflow.com/a/1222488) <sup>[ENG]</sup>
+- [Services in DDD finally explained](https://developer20.com/services-in-ddd-finally-explained/) <sup>[ENG]</sup>
 
 
 ### Object Oriented Programming
