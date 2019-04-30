@@ -97,6 +97,7 @@
 
 ### Databases
 - [Baza danych jako szczegół implementacyjny](https://www.youtube.com/watch?v=Vgj-qAgOlIQ) <sup>[PL]</sup> `video`
+- [HandlerSocket](https://www.youtube.com/watch?v=jYFixcFTR4c) <sup>[PL]</sup> `video`
 
 
 ### Security
