@@ -79,6 +79,7 @@
 - [Sagi, strumienie, reaktywność](https://www.youtube.com/watch?v=27S0G9bE3Bg) <sup>[PL]</sup> `video`
 - [Cele architektury oprogramowania](https://medium.com/@patrykwozinski/cele-architektury-oprogramowania-a063dda884d1) <sup>[PL]</sup>
 - [Architecture antipatterns and how to beat them](https://www.youtube.com/watch?v=cJDDsSj2vJA) <sup>[PL]</sup> `video` 
+- [Modular Monoliths](https://www.youtube.com/watch?v=5OjqD-ow8GE) <sup>[EN]</sup> `video`
 
 
 ### Microservices
