@@ -86,6 +86,7 @@
 - [Export data out of the monolith](https://divad4686.github.io/2018/11/26/microservices-techniques.html) <sup>[ENG]</sup>
 - [Tackling Complexity in Microservices](https://vladikk.com/2018/02/28/microservices/) <sup>[ENG]</sup>
 - [Modules or Microservices](https://www.youtube.com/watch?v=AJW2FAJGgVw) <sup>[EN]</sup> `video`
+- [Microservices Gone Wrong](https://www.youtube.com/watch?v=5QIpzNPVDaY) <sup>[EN]</sup> `video`
 
 
 ### Testing
