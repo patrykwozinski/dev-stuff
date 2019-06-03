@@ -51,6 +51,7 @@
 ### Refactoring
 - [Refactoring Guru: refactoring and design patterns](https://refactoring.guru) <sup>[ENG]</sup>
 - [8 tips for successful refactoring](https://medium.com/@andreigridnev/8-tips-for-successful-refactoring-b2a1c9b5d820) <sup>[ENG]</sup>
+- [PHPRefactor](phprefactor.com) <sup>[ENG]</sup>
 
 
 ### Domain discovering and modeling
