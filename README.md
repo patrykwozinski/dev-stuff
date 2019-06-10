@@ -83,6 +83,7 @@
 - [Architecture antipatterns and how to beat them](https://www.youtube.com/watch?v=cJDDsSj2vJA) <sup>[PL]</sup> `video` 
 - [Modular Monoliths](https://www.youtube.com/watch?v=5OjqD-ow8GE) <sup>[EN]</sup> `video`
 - [Majestic Modular Monoliths](https://youtu.be/BOvxJaklcr0) <sup>[EN]</sup> `video`
+- [Architecture for developers](https://youtu.be/z1xLDzx7hgw) <sup>[EN]</sup> `video`
 
 
 ### Microservices
