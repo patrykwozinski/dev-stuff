@@ -52,6 +52,7 @@
 - [Refactoring Guru: refactoring and design patterns](https://refactoring.guru) <sup>[ENG]</sup>
 - [8 tips for successful refactoring](https://medium.com/@andreigridnev/8-tips-for-successful-refactoring-b2a1c9b5d820) <sup>[ENG]</sup>
 - [PHPRefactor](phprefactor.com) <sup>[ENG]</sup>
+- [Refactoring live session toward tactical Domain-Driven Design](https://www.youtube.com/watch?v=gf5eAM-MFQ4) <sup>[PL]</sup> `video`
 
 
 ### Domain discovering and modeling
