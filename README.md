@@ -86,6 +86,7 @@
 - [Modular Monoliths](https://www.youtube.com/watch?v=5OjqD-ow8GE) <sup>[EN]</sup> `video`
 - [Majestic Modular Monoliths](https://youtu.be/BOvxJaklcr0) <sup>[EN]</sup> `video`
 - [Architecture for developers](https://youtu.be/z1xLDzx7hgw) <sup>[EN]</sup> `video`
+- [Wzorce i podejścia architektoniczne wspierające refaktoryzację](https://www.youtube.com/watch?v=c7mgE9Z29s0) <sup>[PL]</sup> `video`
 
 
 ### Microservices
