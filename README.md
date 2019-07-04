@@ -87,6 +87,7 @@
 - [Majestic Modular Monoliths](https://youtu.be/BOvxJaklcr0) <sup>[EN]</sup> `video`
 - [Architecture for developers](https://youtu.be/z1xLDzx7hgw) <sup>[EN]</sup> `video`
 - [Wzorce i podejścia architektoniczne wspierające refaktoryzację](https://www.youtube.com/watch?v=c7mgE9Z29s0) <sup>[PL]</sup> `video`
+- [10 Common Software Architecture Patterns in a nutshell](https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013) <sup>[ENG]</sup>
 
 
 ### Microservices
