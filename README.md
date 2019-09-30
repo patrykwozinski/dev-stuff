@@ -50,6 +50,10 @@
 - [Domain Logic and SQL](https://martinfowler.com/articles/dblogic.html) <sup>[ENG]</sup>
 
 
+### Functional programming
+- [The actor model in 10 minutes](https://www.brianstorti.com/the-actor-model/) <sup>[ENG]</sup>
+
+
 ### Refactoring
 - [Refactoring Guru: refactoring and design patterns](https://refactoring.guru) <sup>[ENG]</sup>
 - [8 tips for successful refactoring](https://medium.com/@andreigridnev/8-tips-for-successful-refactoring-b2a1c9b5d820) <sup>[ENG]</sup>
