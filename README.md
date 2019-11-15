@@ -102,7 +102,7 @@
 - [Modules or Microservices](https://www.youtube.com/watch?v=AJW2FAJGgVw) <sup>[EN]</sup> `video`
 - [Microservices Gone Wrong](https://www.youtube.com/watch?v=5QIpzNPVDaY) <sup>[EN]</sup> `video`
 - [Why Having a Feature Flag Microservice Is a Bad Idea](https://dzone.com/articles/why-having-a-feature-flag-microservice-is-a-bad-id) <sup>[EN]</sup>
-
+- [Awesome #Scalability](https://github.com/binhnguyennus/awesome-scalability#scalability) <sup>[ENG]</sup>
 
 
 ### Testing
