@@ -93,6 +93,7 @@
 - [Architecture for developers](https://youtu.be/z1xLDzx7hgw) <sup>[EN]</sup> `video`
 - [Wzorce i podejścia architektoniczne wspierające refaktoryzację](https://www.youtube.com/watch?v=c7mgE9Z29s0) <sup>[PL]</sup> `video`
 - [10 Common Software Architecture Patterns in a nutshell](https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013) <sup>[ENG]</sup>
+- [Awesome #Architecute](https://github.com/binhnguyennus/awesome-scalability#architecture) <sup>[ENG]</sup>
 
 
 ### Microservices
@@ -101,6 +102,7 @@
 - [Modules or Microservices](https://www.youtube.com/watch?v=AJW2FAJGgVw) <sup>[EN]</sup> `video`
 - [Microservices Gone Wrong](https://www.youtube.com/watch?v=5QIpzNPVDaY) <sup>[EN]</sup> `video`
 - [Why Having a Feature Flag Microservice Is a Bad Idea](https://dzone.com/articles/why-having-a-feature-flag-microservice-is-a-bad-id) <sup>[EN]</sup>
+
 
 
 ### Testing
