@@ -59,6 +59,7 @@
 - [8 tips for successful refactoring](https://medium.com/@andreigridnev/8-tips-for-successful-refactoring-b2a1c9b5d820) <sup>[ENG]</sup>
 - [PHPRefactor](phprefactor.com) <sup>[ENG]</sup>
 - [Refactoring live session toward tactical Domain-Driven Design](https://www.youtube.com/watch?v=gf5eAM-MFQ4) <sup>[PL]</sup> `video`
+- [The Transformation Priority Premise](http://blog.cleancoder.com/uncle-bob/2013/05/27/TheTransformationPriorityPremise.html) <sup>[ENG]</sup>
 
 
 ### Domain discovering and modeling
