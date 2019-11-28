@@ -117,6 +117,10 @@
 - [Integration Testing: What It Is and How to Do It Right](https://dzone.com/articles/integration-testing-what-it-is-and-how-to-do-it-ri) <sup>[ENG]</sup>
 
 
+### Performance
+- [Czy wydajność to jakość?](https://youtu.be/Ag9mBOjSeb8) <sup>[PL]</sup> `video`
+
+
 ### Databases
 - [Baza danych jako szczegół implementacyjny](https://www.youtube.com/watch?v=Vgj-qAgOlIQ) <sup>[PL]</sup> `video`
 - [HandlerSocket](https://www.youtube.com/watch?v=jYFixcFTR4c) <sup>[PL]</sup> `video`
