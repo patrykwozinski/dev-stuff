@@ -95,6 +95,7 @@
 - [Wzorce i podejścia architektoniczne wspierające refaktoryzację](https://www.youtube.com/watch?v=c7mgE9Z29s0) <sup>[PL]</sup> `video`
 - [10 Common Software Architecture Patterns in a nutshell](https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013) <sup>[ENG]</sup>
 - [Awesome #Architecute](https://github.com/binhnguyennus/awesome-scalability#architecture) <sup>[ENG]</sup>
+- [Vertical Slice Architecture](https://jimmybogard.com/vertical-slice-architecture/) <sup>[ENG]</sup>
 
 
 ### Microservices
