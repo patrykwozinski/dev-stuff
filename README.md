@@ -48,6 +48,7 @@
 - [Kompleks wielkości metod](https://medium.com/@patrykwozinski/kompleks-wielko%C5%9Bci-metod-ecfb949c61d8) <sup>[PL]</sup>
 - [The return of the native principles](https://www.youtube.com/watch?v=xvOhcteJzxM) <sup>[PL]</sup> `video`
 - [Domain Logic and SQL](https://martinfowler.com/articles/dblogic.html) <sup>[ENG]</sup>
+- [Readable Code](https://blog.pragmaticengineer.com/readable-code/) <sup>[ENG]</sup>
 
 
 ### Functional programming
