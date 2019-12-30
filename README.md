@@ -122,7 +122,7 @@
 
 
 ### DevOps
-- [The Twelve-Factor App] (https://12factor.net/) <sup>[ENG]</sup>
+- [The Twelve-Factor App](https://12factor.net/) <sup>[ENG]</sup>
 
 
 ### Performance
