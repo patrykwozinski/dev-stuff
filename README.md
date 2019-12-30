@@ -121,6 +121,10 @@
 - [Improving your Test Driven Development in 45 minutes](https://youtu.be/PwMNtiKb-P4) <sup>[PL]</sup> `video`
 
 
+### DevOps
+- [The Twelve-Factor App] (https://12factor.net/) <sup>[ENG]</sup>
+
+
 ### Performance
 - [Czy wydajność to jakość?](https://youtu.be/Ag9mBOjSeb8) <sup>[PL]</sup> `video`
 
