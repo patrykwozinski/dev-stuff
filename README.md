@@ -147,6 +147,7 @@
 - "Building Evolutionary Architectures" - Patrick Kua, Rebecca Parsons, Neal Ford
 - "Just Enough Software Architecture: A Risk Driven Approach" - George H. Fairbanks
 - "A Philosophy of Software Design" - John Ousterhout 
+- "Monolith to Microservices" - Sam Newman
 
 
 ### Junior devs
