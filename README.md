@@ -69,6 +69,7 @@
 - [Modeling Reactive Systems with Event Storming](https://blog.redelastic.com/corporate-arts-crafts-modelling-reactive-systems-with-event-storming-73c6236f5dd7) <sup>[ENG]</sup>
 - [A facilitators recipe for Event Storming](https://medium.com/@springdo/a-facilitators-recipe-for-event-storming-941dcb38db0d) <sup>[ENG]</sup>
 - [The anatomy of a Model Debt](https://no-kill-switch.ghost.io/the-anatomy-of-a-model-debt/) <sup>[ENG]</sup>
+- [Event Modeling: What is it?](https://eventmodeling.org/posts/what-is-event-modeling/) <sup>[ENG]</sup>
 
 
 ### Architecture
