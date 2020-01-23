@@ -120,6 +120,7 @@
 - [Test doubles: the motion picture](https://speakerdeck.com/franiglesias/tests-doubles-the-motion-picture) <sup>[EN]</sup>
 - [Integration Testing: What It Is and How to Do It Right](https://dzone.com/articles/integration-testing-what-it-is-and-how-to-do-it-ri) <sup>[ENG]</sup>
 - [Improving your Test Driven Development in 45 minutes](https://youtu.be/PwMNtiKb-P4) <sup>[PL]</sup> `video`
+- [TDD, Where Did It All Go Wrong](https://www.youtube.com/watch?v=EZ05e7EMOLM&) <sup>[ENG]</sup> `video`
 
 
 ### DevOps
