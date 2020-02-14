@@ -136,6 +136,7 @@
 ### Databases
 - [Baza danych jako szczegół implementacyjny](https://www.youtube.com/watch?v=Vgj-qAgOlIQ) <sup>[PL]</sup> `video`
 - [HandlerSocket](https://www.youtube.com/watch?v=jYFixcFTR4c) <sup>[PL]</sup> `video`
+- [MySQL - Validate Your schema and change it smoothly](https://www.youtube.com/watch?v=30vr4yKD5O8) <sup>[PL]</sup> `video`
 
 
 ### Security
