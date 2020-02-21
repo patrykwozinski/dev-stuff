@@ -100,6 +100,7 @@
 - [Awesome #Architecute](https://github.com/binhnguyennus/awesome-scalability#architecture) <sup>[ENG]</sup>
 - [Vertical Slice Architecture](https://jimmybogard.com/vertical-slice-architecture/) <sup>[ENG]</sup>
 - [Architektura multi-tenant](https://softwareplant.com/architektura-multi-tenant-na-przykladzie-produktow-softwareplant/) <sup>[PL]</sup>
+- [How Uber Goes](https://www.youtube.com/watch?v=nLskCRJOdxM) <sup>[ENG]</sup> `video`
 
 
 ### Microservices
