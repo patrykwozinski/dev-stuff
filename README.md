@@ -111,6 +111,7 @@
 - [Why Having a Feature Flag Microservice Is a Bad Idea](https://dzone.com/articles/why-having-a-feature-flag-microservice-is-a-bad-id) <sup>[EN]</sup>
 - [Awesome #Scalability](https://github.com/binhnguyennus/awesome-scalability#scalability) <sup>[ENG]</sup>
 - [Common mistakes when moving to microservices & cloud](https://www.youtube.com/watch?v=jo46-CP6ywU) <sup>[PL]</sup> `video`
+- [Avoiding Microservice Megadisasters](https://www.youtube.com/watch?v=gfh-VCTwMw8) <sup>[ENG]</sup> `video`
 
 
 ### Testing
