@@ -148,6 +148,10 @@
 - [Worst security hole you've seen?](https://stackoverflow.com/questions/1469899/worst-security-hole-youve-seen) <sup>[ENG]</sup>
 
 
+### Elixir
+- [Phoenix - Gauging Progress](https://www.youtube.com/watch?v=pfFpIjFOL-I) <sup>[ENG]</sup> `video`
+
+
 ### Books
 - "Applying UML and patterns" - Craig Larman
 - "Domain-Driven Design: Tackling Complexity in the Heart of Software" - Eric Evans
