@@ -133,6 +133,10 @@
 - [The real difference between CI and CD](https://fire.ci/blog/the-difference-between-ci-and-cd/) <sup>[ENG]</sup>
 
 
+### Generic infrastructure, network, web app
+- [Klienci Http: bohaterowie systemów rozproszonych](https://www.youtube.com/watch?v=RVBlCTK_3oA) <sup>[PL]</sup> `video`
+
+
 ### Performance
 - [Czy wydajność to jakość?](https://youtu.be/Ag9mBOjSeb8) <sup>[PL]</sup> `video`
 
