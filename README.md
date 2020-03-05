@@ -24,6 +24,7 @@
 - [DDD - The Bounded Context Explained](http://blog.sapiensworks.com/post/2012/04/17/DDD-The-Bounded-Context-Explained.aspx) <sup>[ENG]</sup>
 - [DDD in plain english](https://stackoverflow.com/a/1222488) <sup>[ENG]</sup>
 - [Services in DDD finally explained](https://developer20.com/services-in-ddd-finally-explained/) <sup>[ENG]</sup>
+- [Sociotechnical DDD](https://www.youtube.com/watch?v=EOof9dof0y0) <sup>[ENG]</sup> `video`
 
 
 ### Object Oriented Programming
