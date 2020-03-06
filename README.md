@@ -16,6 +16,10 @@
 - [How to write a good software design document](https://medium.freecodecamp.org/how-to-write-a-good-software-design-document-66fcf019569c) <sup>[ENG]</sup>
 
 
+### Management
+- [Hiring, managing, and scaling engineering teams at Typeform](https://medium.com/@eleonorazucconi/toby-oliver-cto-typeform-on-hiring-managing-and-scaling-engineering-teams-86bef9e5a708) <sup>[ENG]</sup>
+
+
 ### Domain Driven Design
 - [Sposób na projektowanie złożonych modeli biznesowych - Bottega IT](https://bottega.com.pl/pdf/materialy/sdj-ddd.pdf)
 - [How to define Bounded Contexts](https://codeburst.io/ddd-strategic-patterns-how-to-define-bounded-contexts-2dc70927976e)
