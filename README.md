@@ -107,6 +107,7 @@
 - [Architektura multi-tenant](https://softwareplant.com/architektura-multi-tenant-na-przykladzie-produktow-softwareplant/) <sup>[PL]</sup>
 - [How Uber Goes](https://www.youtube.com/watch?v=nLskCRJOdxM) <sup>[ENG]</sup> `video`
 - [Monolith Decomposition Patterns](https://www.youtube.com/watch?v=9I9GdSQ1bbM) <sup>[ENG]</sup> `video`
+- [Sociotechnical Architecture](https://www.youtube.com/watch?v=Pmz3FXu-Dzk) <sup>[ENG]</sup> `video`
 
 
 ### Microservices
