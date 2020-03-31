@@ -109,6 +109,7 @@
 - [How Uber Goes](https://www.youtube.com/watch?v=nLskCRJOdxM) <sup>[ENG]</sup> `video`
 - [Monolith Decomposition Patterns](https://www.youtube.com/watch?v=9I9GdSQ1bbM) <sup>[ENG]</sup> `video`
 - [Sociotechnical Architecture](https://www.youtube.com/watch?v=Pmz3FXu-Dzk) <sup>[ENG]</sup> `video`
+- [Communicating architecture in times of remote "leap of faith"](https://no-kill-switch.ghost.io/communicating-architecture-in-times-of-remote-leap-of-faith/) <sup>[ENG]</sup>
 
 
 ### Microservices
