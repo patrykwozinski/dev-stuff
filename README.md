@@ -30,6 +30,7 @@
 - [DDD in plain english](https://stackoverflow.com/a/1222488) <sup>[ENG]</sup>
 - [Services in DDD finally explained](https://developer20.com/services-in-ddd-finally-explained/) <sup>[ENG]</sup>
 - [Sociotechnical DDD](https://www.youtube.com/watch?v=EOof9dof0y0) <sup>[ENG]</sup> `video`
+- [Strategic DDD in under 15 minutes](https://www.youtube.com/watch?v=Evers5npkmE) <sup>[ENG]</sup> `video`
 
 
 ### Object Oriented Programming
