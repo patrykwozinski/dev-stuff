@@ -156,6 +156,7 @@
 - [HandlerSocket](https://www.youtube.com/watch?v=jYFixcFTR4c) <sup>[PL]</sup> `video`
 - [MySQL - Validate Your schema and change it smoothly](https://www.youtube.com/watch?v=30vr4yKD5O8) <sup>[PL]</sup> `video`
 - [SQL Indexing and Tuning e-Book](https://use-the-index-luke.com/) <sup>[ENG]</sup>
+- [50 SQL Interview Questions](https://dev.to/helenanders26/50-sql-interview-questions-4jpb) <sup>[ENG]</sup>
 
 
 ### Security
