@@ -21,6 +21,10 @@
 - [Scaling Engineering Teams](https://www.youtube.com/watch?v=-PXi_7Ld5kU) <sup>[ENG]</sup> `video`
 
 
+### Recruitment (Engineering)
+- [Technical Interview Preparation Checklist](https://dev.to/trekhleb/technical-interview-preparation-checklist-4m4f) <sup>[ENG]</sup>
+
+
 ### Domain Driven Design
 - [Sposób na projektowanie złożonych modeli biznesowych - Bottega IT](https://bottega.com.pl/pdf/materialy/sdj-ddd.pdf)
 - [How to define Bounded Contexts](https://codeburst.io/ddd-strategic-patterns-how-to-define-bounded-contexts-2dc70927976e)
