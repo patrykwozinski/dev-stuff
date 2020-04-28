@@ -19,6 +19,7 @@
 ### Management
 - [Hiring, managing, and scaling engineering teams at Typeform](https://medium.com/@eleonorazucconi/toby-oliver-cto-typeform-on-hiring-managing-and-scaling-engineering-teams-86bef9e5a708) <sup>[ENG]</sup>
 - [Scaling Engineering Teams](https://www.youtube.com/watch?v=-PXi_7Ld5kU) <sup>[ENG]</sup> `video`
+- [Onboarding a junior dev to your team](https://dev.to/carolstran/onboarding-a-junior-developer-to-your-team-here-s-12-tips-4g3a) <sup>[ENG]</sup>
 
 
 ### Recruitment (Engineering)
