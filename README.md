@@ -196,6 +196,7 @@
 - [Period against comma in PHP](https://stackoverflow.com/questions/1466408/difference-between-period-and-comma-when-concatenating-with-echo-versus-return) <sup>[ENG]</sup>
 - [PHP rules, good practices, security](https://github.com/dseguy/clearPHP/tree/master/rules) <sup>[ENG]</sup>
 - [List of Big-O for PHP functions](https://stackoverflow.com/questions/2473989/list-of-big-o-for-php-functions/2484455#2484455) <sup>[ENG]</sup>
+- [4 Tricks to boost script performance in PHP](https://dev.to/devmount/4-php-tricks-to-boost-script-performance-ol1) <sup>[ENG]</sup>
 
 
 ### Version control
