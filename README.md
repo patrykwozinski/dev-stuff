@@ -117,6 +117,7 @@
 - [Sociotechnical Architecture](https://www.youtube.com/watch?v=Pmz3FXu-Dzk) <sup>[ENG]</sup> `video`
 - [Communicating architecture in times of remote "leap of faith"](https://no-kill-switch.ghost.io/communicating-architecture-in-times-of-remote-leap-of-faith/) <sup>[ENG]</sup>
 - [Git internal architecture](https://dev.to/anuj_bansal_/git-internal-architecture-o1j) <sup>[ENG]</sup>
+- [Hexagonal Architecture by example - a hands-on introduction](https://allegro.tech/2020/05/hexagonal-architecture-by-example.html) <sup>[ENG]</sup>
 
 
 ### Microservices
