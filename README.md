@@ -66,6 +66,7 @@
 
 ### Functional programming
 - [The actor model in 10 minutes](https://www.brianstorti.com/the-actor-model/) <sup>[ENG]</sup>
+- [Domain Modeling Made Functional](https://www.youtube.com/watch?v=PLFl95c-IiU) <sup>[ENG]</sup>
 
 
 ### Refactoring
