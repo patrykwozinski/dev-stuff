@@ -172,6 +172,7 @@
 ### Security
 - [Web developer security checklist](https://medium.com/simple-security/web-developer-security-checklist-f2e4f43c9c56) <sup>[ENG]</sup>
 - [Worst security hole you've seen?](https://stackoverflow.com/questions/1469899/worst-security-hole-youve-seen) <sup>[ENG]</sup>
+- [Czym jest CORS (Cross-Origin Resource Sharing) i jak wpływa na bezpieczeństwo](https://sekurak.pl/czym-jest-cors-cross-origin-resource-sharing-i-jak-wplywa-na-bezpieczenstwo/) <sup>[PL]</sup>
 
 
 ### Elixir
