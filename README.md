@@ -178,6 +178,7 @@
 ### Elixir
 - [Phoenix - Gauging Progress](https://www.youtube.com/watch?v=pfFpIjFOL-I) <sup>[ENG]</sup> `video`
 - [Elixir and The Beam: How Concurrency Really Works](https://dev.to/sophiedebenedetto/elixir-and-the-beam-how-concurrency-really-works-354n) <sup>[ENG]</sup>
+- [Advanced Metaprogramming](https://www.youtube.com/watch?v=9C53Aq9r7T8) <sup>[PL]</sup> `video`
 
 
 ### Books
