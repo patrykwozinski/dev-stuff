@@ -22,6 +22,10 @@
 - [Onboarding a junior dev to your team](https://dev.to/carolstran/onboarding-a-junior-developer-to-your-team-here-s-12-tips-4g3a) <sup>[ENG]</sup>
 
 
+### Consulting
+- [Narzędzia pracy konsultanta – Wardley Map](https://radekmaziarka.pl/2020/06/21/narzedzia-pracy-konsultanta-wardley-map/) <sup>[PL]</sup>
+
+
 ### Recruitment (Engineering)
 - [Technical Interview Preparation Checklist](https://dev.to/trekhleb/technical-interview-preparation-checklist-4m4f) <sup>[ENG]</sup>
 
