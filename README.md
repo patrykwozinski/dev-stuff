@@ -24,6 +24,7 @@
 
 ### IT Consulting
 - [Narzędzia pracy konsultanta – Wardley Map](https://radekmaziarka.pl/2020/06/21/narzedzia-pracy-konsultanta-wardley-map/) <sup>[PL]</sup>
+- [wardleymaps - all chapters](https://medium.com/wardleymaps) <sup>[ENG]</sup>
 
 
 ### Recruitment (Engineering)
