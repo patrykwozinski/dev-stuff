@@ -185,6 +185,7 @@
 - [Elixir and The Beam: How Concurrency Really Works](https://dev.to/sophiedebenedetto/elixir-and-the-beam-how-concurrency-really-works-354n) <sup>[ENG]</sup>
 - [Advanced Metaprogramming](https://www.youtube.com/watch?v=9C53Aq9r7T8) <sup>[PL]</sup> `video`
 - [Managing Translations in Elixir With Yata](https://www.youtube.com/watch?v=X_mrAq17gvs) <sup>[PL]</sup> `video`
+- [Concurrency and parallelism with Elixir and BEAM](https://medium.com/@patrykbak/concurrency-and-parallelism-with-elixir-and-beam-c683b2215c38) <sup>[ENG]</sup>
 
 
 ### Books
