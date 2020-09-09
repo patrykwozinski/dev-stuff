@@ -41,6 +41,7 @@
 - [Services in DDD finally explained](https://developer20.com/services-in-ddd-finally-explained/) <sup>[ENG]</sup>
 - [Sociotechnical DDD](https://www.youtube.com/watch?v=EOof9dof0y0) <sup>[ENG]</sup> `video`
 - [Strategic DDD in under 15 minutes](https://www.youtube.com/watch?v=Evers5npkmE) <sup>[ENG]</sup> `video`
+- [Domain analysis for microservices](https://docs.microsoft.com/en-us/azure/architecture/microservices/model/domain-analysis) <sup>[ENG]</sup>
 
 
 ### Object Oriented Programming
