@@ -189,6 +189,10 @@
 - [Concurrency and parallelism with Elixir and BEAM](https://medium.com/@patrykbak/concurrency-and-parallelism-with-elixir-and-beam-c683b2215c38) <sup>[ENG]</sup>
 
 
+### Golang
+- [Introducing Clean Architecture by refactoring a Go project](https://threedots.tech/post/introducing-clean-architecture/) <sup>[ENG]</sup>
+
+
 ### Books
 - "Applying UML and patterns" - Craig Larman
 - "Domain-Driven Design: Tackling Complexity in the Heart of Software" - Eric Evans
