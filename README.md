@@ -165,6 +165,7 @@
 
 ### Performance
 - [Czy wydajność to jakość?](https://youtu.be/Ag9mBOjSeb8) <sup>[PL]</sup> `video`
+- [The Ultimate Guide to Web Performance](https://dev.to/ender_minyard/the-ultimate-guide-to-web-performance-ci4) <sup>[ENG]</sup>
 
 
 ### Databases
