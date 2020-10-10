@@ -157,6 +157,7 @@
 ### DevOps
 - [The Twelve-Factor App](https://12factor.net/) <sup>[ENG]</sup>
 - [The real difference between CI and CD](https://fire.ci/blog/the-difference-between-ci-and-cd/) <sup>[ENG]</sup>
+- [DevOps Roadmap](https://github.com/raycad/devops-roadmap) <sup>[ENG]</sup>
 
 
 ### Generic infrastructure, network, web app
