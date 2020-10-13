@@ -158,6 +158,7 @@
 - [The Twelve-Factor App](https://12factor.net/) <sup>[ENG]</sup>
 - [The real difference between CI and CD](https://fire.ci/blog/the-difference-between-ci-and-cd/) <sup>[ENG]</sup>
 - [DevOps Roadmap](https://github.com/raycad/devops-roadmap) <sup>[ENG]</sup>
+- [AWS Cheatsheet](https://dev.to/harshaambati/aws-cheatsheet-2f0k) <sup>[ENG]</sup>
 
 
 ### Generic infrastructure, network, web app
