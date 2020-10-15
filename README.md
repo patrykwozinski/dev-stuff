@@ -68,6 +68,7 @@
 - [Domain Logic and SQL](https://martinfowler.com/articles/dblogic.html) <sup>[ENG]</sup>
 - [Readable Code](https://blog.pragmaticengineer.com/readable-code/) <sup>[ENG]</sup>
 - [Fat vs. Skinny Design](https://www.yegor256.com/2020/02/19/fat-skinny-design.html) <sup>[ENG]</sup>
+- [A short story of raising errors](https://patryk.it/short-history-of-raising-errors/) <sup>[ENG]</sup>
 
 
 ### Functional programming
