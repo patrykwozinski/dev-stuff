@@ -128,6 +128,7 @@
 - [Hexagonal Architecture by example - a hands-on introduction](https://allegro.tech/2020/05/hexagonal-architecture-by-example.html) <sup>[ENG]</sup>
 - [Patterns for Decoupling in Distributed Systems: Explicit Public Events](https://verraes.net/2019/05/patterns-for-decoupling-distsys-explicit-public-events/) <sup>[ENG]</sup>
 - [Read-Your Writes Consistency](https://docs.oracle.com/cd/E17076_05/html/gsg_db_rep/C/rywc.html) <sup>[ENG]</sup>
+- [Symfony Messenger component for CQRS applications](https://patryk.it/symfony-messenger-component-for-cqrs-applications/) <sup>[ENG]</sup>
 
 
 ### Microservices
