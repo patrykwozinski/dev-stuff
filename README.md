@@ -197,6 +197,7 @@
 - [Awesome Elixir and CQRS](https://github.com/slashdotdash/awesome-elixir-cqrs) <sup>[ENG]</sup>
 - [Resources to learn Elixir for PHP developers](https://patryk.it/resources-to-learn-elixir-for-php-developers/) <sup>[ENG]</sup>
 - [Things Elixir's Phoenix Framework does right](https://scorpil.com/post/things-elixirs-phoenix-framework-does-right/) <sup>[ENG]</sup>
+- [Supercharge your ExUnit skills in 10 minutes](https://medium.com/learn-elixir/supercharge-your-elixir-unit-testing-skills-in-10-minutes-a9c76d96e3b6) <sup>[ENG]</sup>
 
 
 ### Golang
