@@ -196,6 +196,7 @@
 - [Concurrency and parallelism with Elixir and BEAM](https://medium.com/@patrykbak/concurrency-and-parallelism-with-elixir-and-beam-c683b2215c38) <sup>[ENG]</sup>
 - [Awesome Elixir and CQRS](https://github.com/slashdotdash/awesome-elixir-cqrs) <sup>[ENG]</sup>
 - [Resources to learn Elixir for PHP developers](https://patryk.it/resources-to-learn-elixir-for-php-developers/) <sup>[ENG]</sup>
+- [Things Elixir's Phoenix Framework does right](https://scorpil.com/post/things-elixirs-phoenix-framework-does-right/) <sup>[ENG]</sup>
 
 
 ### Golang
