@@ -199,6 +199,7 @@
 - [Things Elixir's Phoenix Framework does right](https://scorpil.com/post/things-elixirs-phoenix-framework-does-right/) <sup>[ENG]</sup>
 - [Supercharge your ExUnit skills in 10 minutes](https://medium.com/learn-elixir/supercharge-your-elixir-unit-testing-skills-in-10-minutes-a9c76d96e3b6) <sup>[ENG]</sup>
 - [Buildings start-ups with Elixir](https://www.youtube.com/watch?v=icfvFFZUxZQ&feature=youtu.be) <sup>[ENG]</sup> `video`
+- [How to build a self-healing system using supervision tree in Elixir](https://kodius.com/blog/elixir-supervision-tree/) <sup>[ENG]</sup>
 
 
 ### Golang
