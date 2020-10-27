@@ -201,6 +201,7 @@
 - [Supercharge your ExUnit skills in 10 minutes](https://medium.com/learn-elixir/supercharge-your-elixir-unit-testing-skills-in-10-minutes-a9c76d96e3b6) <sup>[ENG]</sup>
 - [Buildings start-ups with Elixir](https://www.youtube.com/watch?v=icfvFFZUxZQ&feature=youtu.be) <sup>[ENG]</sup> `video`
 - [How to build a self-healing system using supervision tree in Elixir](https://kodius.com/blog/elixir-supervision-tree/) <sup>[ENG]</sup>
+- [Ecto Preloads in Phoenix Contexts](https://medium.com/@damonvjanis/ecto-preloads-in-phoenix-contexts-167d11e5405e) <sup>[ENG]</sup>
 
 
 ### Golang
