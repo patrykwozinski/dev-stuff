@@ -203,6 +203,7 @@
 - [How to build a self-healing system using supervision tree in Elixir](https://kodius.com/blog/elixir-supervision-tree/) <sup>[ENG]</sup>
 - [Ecto Preloads in Phoenix Contexts](https://medium.com/@damonvjanis/ecto-preloads-in-phoenix-contexts-167d11e5405e) <sup>[ENG]</sup>
 - [Elixir on Kubernetes](https://www.youtube.com/watch?v=AjdD6gJHqBU) <sup>[PL]</sup> `video`
+- [Elixir at fintech with Brex](https://elixir-lang.org/blog/2020/06/23/growing-with-elixir-at-brex/) <sup>[ENG]</sup>
 
 
 ### Golang
