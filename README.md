@@ -205,6 +205,7 @@
 - [Elixir on Kubernetes](https://www.youtube.com/watch?v=AjdD6gJHqBU) <sup>[PL]</sup> `video`
 - [Elixir at fintech with Brex](https://elixir-lang.org/blog/2020/06/23/growing-with-elixir-at-brex/) <sup>[ENG]</sup>
 - [Preloading Nested Associations with Ecto](https://thoughtbot.com/blog/preloading-nested-associations-with-ecto) <sup>[ENG]</sup>
+- [Using Event Sourcing and CQRS with Incident](https://pedroassumpcao.ghost.io/event-sourcing-and-cqrs-using-incident-part-1/) <sup>[ENG]</sup>
 
 
 ### Golang
