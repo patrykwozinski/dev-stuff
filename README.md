@@ -94,6 +94,7 @@
 - [A facilitators recipe for Event Storming](https://medium.com/@springdo/a-facilitators-recipe-for-event-storming-941dcb38db0d) <sup>[ENG]</sup>
 - [The anatomy of a Model Debt](https://no-kill-switch.ghost.io/the-anatomy-of-a-model-debt/) <sup>[ENG]</sup>
 - [Event Modeling: What is it?](https://eventmodeling.org/posts/what-is-event-modeling/) <sup>[ENG]</sup>
+- [Event Storming zdalnie – praktyczne porady](https://radekmaziarka.pl/2020/11/16/event-storming-zdalnie-praktyczne-porady/) <sup>[PL]</sup>
 
 
 ### Architecture
