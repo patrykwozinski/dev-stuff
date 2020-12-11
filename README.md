@@ -43,6 +43,7 @@
 - [Sociotechnical DDD](https://www.youtube.com/watch?v=EOof9dof0y0) <sup>[ENG]</sup> `video`
 - [Strategic DDD in under 15 minutes](https://www.youtube.com/watch?v=Evers5npkmE) <sup>[ENG]</sup> `video`
 - [Domain analysis for microservices](https://docs.microsoft.com/en-us/azure/architecture/microservices/model/domain-analysis) <sup>[ENG]</sup>
+- [Domain, Subdomain, Bounded Context, Problem/Solution Space in DDD: Clearly Defined](https://medium.com/nick-tune-tech-strategy-blog/domains-subdomain-problem-solution-space-in-ddd-clearly-defined-e0b49c7b586c) <sup>[ENG]</sup>
 
 
 ### Object Oriented Programming
