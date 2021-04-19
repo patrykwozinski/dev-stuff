@@ -212,6 +212,7 @@
 - [On Elixir Metaprogramming](https://www.christianblavier.com/on-elixir-metaprogramming/) <sup>[ENG]</sup>
 - [Event-Driven architecture in Elixir](https://www.youtube.com/watch?v=8qDXG7tnl9w) <sup>[ENG]</sup> `video`
 - [Fast Elixir](https://github.com/devonestes/fast-elixir) <sup>[ENG]</sup>
+- [Killer Elixir-Tips](https://github.com/blackode/elixir-tips) <sup>[ENG]</sup>
 
 
 ### Golang
