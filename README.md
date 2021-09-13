@@ -213,6 +213,7 @@
 - [Event-Driven architecture in Elixir](https://www.youtube.com/watch?v=8qDXG7tnl9w) <sup>[ENG]</sup> `video`
 - [Fast Elixir](https://github.com/devonestes/fast-elixir) <sup>[ENG]</sup>
 - [Killer Elixir-Tips](https://github.com/blackode/elixir-tips) <sup>[ENG]</sup>
+- [Iteration, Recursion, and Tail-call Optimization in Elixir](https://blog.appsignal.com/2019/03/19/elixir-alchemy-recursion.html) <sup>[ENG]</sup>
 
 
 ### Golang
