@@ -77,7 +77,7 @@
 ### Functional programming
 - [The actor model in 10 minutes](https://www.brianstorti.com/the-actor-model/) <sup>[ENG]</sup>
 - [Domain Modeling Made Functional](https://www.youtube.com/watch?v=PLFl95c-IiU) <sup>[ENG]</sup>
-- [Functional architecture - The pits of success ](https://www.youtube.com/watch?v=US8QG9I1XW0) <sup>[ENG]</sup>
+- [Functional architecture - The pits of success](https://www.youtube.com/watch?v=US8QG9I1XW0) <sup>[ENG]</sup>
 - [Programowanie funkcyjne na JVM](https://www.youtube.com/watch?v=cJiwhQkyfRY) <sup>[PL]</sup> `video`
 - [The Essence of Composition](https://bartoszmilewski.com/2014/11/04/category-the-essence-of-composition/) <sup>[ENG]</sup>
 
