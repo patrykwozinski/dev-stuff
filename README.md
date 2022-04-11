@@ -215,6 +215,7 @@
 - [Fast Elixir](https://github.com/devonestes/fast-elixir) <sup>[ENG]</sup>
 - [Killer Elixir-Tips](https://github.com/blackode/elixir-tips) <sup>[ENG]</sup>
 - [Iteration, Recursion, and Tail-call Optimization in Elixir](https://blog.appsignal.com/2019/03/19/elixir-alchemy-recursion.html) <sup>[ENG]</sup>
+- [When to use Elixir language?](https://www.amberbit.com/blog/2018/5/15/when-to-use-elixir-language/) <sup>[ENG]</sup>
 
 
 ### Golang
